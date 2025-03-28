@@ -1,6 +1,6 @@
 git clone link
 
-cd HET
+cd movievala
 
 chmod +x *
 
